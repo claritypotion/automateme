@@ -1,7 +1,7 @@
 ## Requirements
-`nodejs` (tested in `10.0.0`)
-`yarn`
-`RabbitMQ` as a serivce
+- `nodejs` (tested in `10.0.0`)
+- `yarn`
+- `RabbitMQ` as a serivce
 
 ## Installation
 `yarn install`
