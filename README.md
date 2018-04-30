@@ -17,6 +17,6 @@ There two different ways how applications can run:
    `ROUTE=LeTest TYPE=reader HOST=localhost PORT=5672 LOGIN=guest PASSWORD=guest node --experimental-modules app.mjs`
 
 ### Environment variables
-`ROUTE` -- is a key for an exchange & also a queue name
-`TYPE`  -- mode for application to run in. (`reader` or `writer`)
-`HOST`, `PORT`, `LOGIN`, `PASSWORD` are settings for RabbitMQ
+- `ROUTE` -- is a key for an exchange & also a queue name
+- `TYPE`  -- mode for application to run in. (`reader` or `writer`)
+- `HOST`, `PORT`, `LOGIN`, `PASSWORD` are settings for RabbitMQ
